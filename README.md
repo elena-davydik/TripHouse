@@ -8,4 +8,4 @@
 
 <img src="preview.png">
 
-[DEMO](https://elena-davydik.github.io/TripHouse/)
+[DEMO](https://elena-davydik.github.io/)
