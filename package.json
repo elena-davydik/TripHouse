@@ -1,8 +1,8 @@
 {
-  "homepage": "http://elena-davydik.github.io/TripHouse",
   "name": "triphouse",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://elena-davydik.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
